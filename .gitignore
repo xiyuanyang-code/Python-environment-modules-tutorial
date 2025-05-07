@@ -2,4 +2,5 @@
 .env
 example.txt
 *.txt
+/test/
 /.history/
